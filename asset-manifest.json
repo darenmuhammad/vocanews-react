@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vocanews-react/static/css/main.756af292.css",
+    "main.js": "/vocanews-react/static/js/main.5c579ada.js",
+    "static/js/787.9ce9f379.chunk.js": "/vocanews-react/static/js/787.9ce9f379.chunk.js",
+    "static/media/berita5.jpg": "/vocanews-react/static/media/berita5.8923133cc2b13580cdc4.jpg",
+    "static/media/berita20.jpg": "/vocanews-react/static/media/berita20.7d4dd5debe2b27132bb8.jpg",
+    "static/media/berita2.jpg": "/vocanews-react/static/media/berita2.22db274b5410a2d6110c.jpg",
+    "static/media/berita16.jpg": "/vocanews-react/static/media/berita16.7b0ff3df6a6a6224acb7.jpg",
+    "static/media/berita12.jpg": "/vocanews-react/static/media/berita12.5f0aad53cc9696db536d.jpg",
+    "static/media/berita19.jpg": "/vocanews-react/static/media/berita19.eb23d4a525eb656c4833.jpg",
+    "static/media/berita11.jpeg": "/vocanews-react/static/media/berita11.aeed1a5b5a5704344b5a.jpeg",
+    "static/media/berita10.jpeg": "/vocanews-react/static/media/berita10.96b80f4c9241b13f13ff.jpeg",
+    "static/media/logo.svg": "/vocanews-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vocanews-react/index.html",
+    "main.756af292.css.map": "/vocanews-react/static/css/main.756af292.css.map",
+    "main.5c579ada.js.map": "/vocanews-react/static/js/main.5c579ada.js.map",
+    "787.9ce9f379.chunk.js.map": "/vocanews-react/static/js/787.9ce9f379.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.5c579ada.js"
+  ]
+}
